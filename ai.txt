@@ -1,0 +1,5 @@
+# GamingOverlay — AI usage policy
+# No AI/ML training, fine-tuning, embedding, scraping or recreation of this site,
+# its code, design, text, images or presets. All rights reserved. See /LICENSE.
+User-Agent: *
+Disallow: /
